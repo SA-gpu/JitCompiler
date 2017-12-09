@@ -1,0 +1,34 @@
+Model abb{
+sentence d="adddd\nd";
+word a='d';
+num f=33;
+Start{
+call trump(6, call gh());
+call trupf(call fg()); 
+a=b=9,v;
+a,b;    
+loop(a==3,6){
+num a=9;
+call a();
+}
+		Open void rump(void a, num b){
+  return call d(call d(), a.b);
+
+}
+}Stop
+}
+Model myWorld{
+Open void ff(){
+if (a.call a(a.b.a[i].call a(a.call a(a[call a(a+call a())])))<=call dd()){
+  num f=5;
+}or {
+num k=4;
+a[6]=9;
+
+
+}
+return a;
+}
+}
+$
+

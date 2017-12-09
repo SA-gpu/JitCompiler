@@ -1,0 +1,124 @@
+Model abb{
+Start{
+ loop(a==3,6){
+num a=9;
+}
+}Stop
+}
+Model acc{
+num a=3;
+}
+$
+
+
+
+Model abb{
+	Start{
+		num a=65, b=6,d=11;
+		num d[5];
+		num hf[call id()];
+		loop(9,7){
+	num a=5, b=6,d=11;
+	}
+		}Stop
+}
+
+
+
+Open void trump(void a, num b){
+		Open void trump(void a, num b){
+  
+}
+}
+
+call trump ( 6, call gh())
+call trupf (call fg())
+
+t rump = new abb(); 
+t rump = new abb(gg); 
+
+
+return call d(call d(), a.b);
+return a+b;
+return abb.abb[b];
+return abb.abb[call b(void)];
+return a<=b;
+return acc[b>=c];
+
+if 
+(a<b)
+{
+  num f=5;
+}or {
+num k=4;
+}
+
+
+Model abb{
+Start{
+call trump(6, call gh());
+call trupf(call fg());
+t rump = new abb(); 
+t rump = new abb(gg); 
+loop(a==3,6){
+num a=9;
+}
+Open void trump(void a, num b){
+		Open void trump(void a, num b){
+  
+}
+}
+return call d(call d(), a.b);
+return a+b;
+return abb.abb[b];
+return abb.abb[call b()];
+return a<=b;
+return acc[b>=c];
+}Stop
+}
+Model myWorld{
+Open void ff(){
+if 
+(a<b)
+{
+  num f=5;
+}
+}
+}
+$
+
+
+Model abb{
+sentence d="adddd";
+Start{
+call trump(6, call gh());
+call trupf(call fg());
+t rump = new abb(); 
+t rump = new abb(gg); 
+loop(a==3,6){
+num a=9;
+}
+Open void trump(void a, num b){
+		Open void rump(void a, num b){
+  
+}
+}
+return call d(call d(), a.b);
+return a+b;
+return abb.abb[b];
+return abb.abb[call b()];
+return a<=b;
+return acc[b>=c];
+}Stop
+}
+Model myWorld{
+Open void ff(){
+if (a.call a(a[].call a(a.call a(a[call a(a+call a())])))<=call dd()){
+  num f=5;
+}or {
+num k=4;
+}
+
+}
+}
+$
